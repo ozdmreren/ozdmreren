@@ -179,4 +179,18 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozdmreren)](https://github.com/ozdmreren/github-readme-stats)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ozdmreren&show_icons=true&locale=en&layout=compact&theme=dark" 
+    width="400" 
+    height="200"
+    alt="Top Languages"
+  />
+  &nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ozdmreren&show_icons=true&locale=en&theme=dark" 
+    width="400" 
+    height="200"
+    alt="GitHub Stats"
+  />
+</p>
