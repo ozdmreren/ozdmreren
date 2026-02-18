@@ -174,23 +174,4 @@
 
 <p>
 <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</p>
-
-
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ozdmreren&show_icons=true&locale=en&layout=compact&theme=dark" 
-    width="400" 
-    height="200"
-    alt="Top Languages"
-  />
-  &nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ozdmreren&show_icons=true&locale=en&theme=dark" 
-    width="400" 
-    height="200"
-    alt="GitHub Stats"
-  />
 </p>
